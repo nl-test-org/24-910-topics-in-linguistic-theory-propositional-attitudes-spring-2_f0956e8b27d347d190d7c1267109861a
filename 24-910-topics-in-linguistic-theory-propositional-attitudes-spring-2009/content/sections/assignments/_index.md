@@ -1,0 +1,37 @@
+---
+course_id: 24-910-topics-in-linguistic-theory-propositional-attitudes-spring-2009
+layout: course_section
+menu:
+  leftnav:
+    identifier: 9118d15a9b7df393c938eca68af052c5
+    name: Assignments
+    weight: 50
+title: Assignments
+type: course
+uid: 9118d15a9b7df393c938eca68af052c5
+
+---
+
+Papers
+------
+
+Papers 1 and 2 should be 5-8 pages each of double-spaced text on different topics related to the course material. Paper 3 is a substantial revision of either Paper 1 or Paper 2 and should be 7-10 pages long. For general guidelines about writing philosophy papers, please refer to [Guidelines on Writing a Philosophy Paper](http://www.jimpryor.net/teaching/guidelines/writing.html).
+
+Presentations
+-------------
+
+The two presentations related to Papers 1 and 2 will take place one week before that paper is due so that you have the opportunity to receive feedback on your arguments. The final presentation will be for the third (revised) paper. Presentations should be 5 minutes long.
+
+Homework Exercises
+------------------
+
+These assignments are in addition to writing the papers and preparing the presentations. Solutions are available for selected assignments below.
+
+| ASSN # | ASSIGNMENTS | SOLUTIONS |
+| --- | --- | --- |
+| 1 | {{< h 3 >}}Reading{{< /h >}} {{< br >}}{{< br >}} von Fintel, Kai, and Irene Heim. Lecture Notes on Intensional Semantics. Chapters 1 and 2. (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF](http://mit.edu/fintel/fintel-heim-intensional.pdf)) {{< br >}}{{< br >}} {{< h 3 >}}Things to do as you read{{< /h >}} {{< br >}}{{< br >}} \- Keep in mind that this reading presupposes familiarity with the Heim and Kratzer textbook (commonly used in introductory graduate semantics courses), which you have probably **not** used. This will make it challenging, but I chose it because it's the clearest introduction to the topic that I could find. {{< br >}}{{< br >}} \- Make a list of concepts, terms, and formalism that you don't understand. We will spend time going over these in class. {{< br >}}{{< br >}} {{< h 3 >}}Assignment{{< /h >}} {{< br >}}{{< br >}} This assignment will not be graded for content/correctness at this point, but you are expected to make a significant effort to complete it and to devote some time to it. (This is part of your general participation grade.) I also expect it to be reasonably neat and organized. When doing the exercises, show your work clearly. If you get stuck, go as far as you can and explain where you got stuck. {{< br >}}{{< br >}} \- Make a list of concepts, terms, and formalism that you don't understand. {{< br >}}{{< br >}} \- Exercise 1.1 (p. 6) or Exercise 1.2 (p. 10) {{< br >}}{{< br >}} \- Exercise 1.3 (p. 11) {{< br >}}{{< br >}} \- Exercise 2.1 (p. 19) {{< br >}}{{< br >}}  | &nbsp; |
+| 2 | {{< h 3 >}}Required Reading{{< /h >}} {{< br >}}{{< br >}} von Fintel, Kai, and Irene Heim. Lecture Notes on Intensional Semantics. Chapters 1 and 2. (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF](http://mit.edu/fintel/fintel-heim-intensional.pdf)) {{< br >}}{{< br >}} {{< h 3 >}}Recommended Reading{{< /h >}} {{< br >}}{{< br >}} Heim, Irene, and Angelika Kratzer. "Truth-Conditional Semantics and the Fregean Program," "Executing the Fregean Program," and "Semantics and Syntax." Chapters 1 to 3 in _Semantics in Generative Grammar_. Malden, MA: Blackwell Publishers, 1998, pp. 1-32. ISBN: 9780631197133. {{< br >}}{{< br >}} {{< h 3 >}}Things to do as you read{{< /h >}} {{< br >}}{{< br >}} Make a list of concepts, terms, and formalism that you do not understand. We will spend time going over these in class. {{< br >}}{{< br >}} {{< h 3 >}}Assignment{{< /h >}} {{< br >}}{{< br >}} \- \[From Heim and Kratzer\] Exercise 2, parts e-h (pp. 39-40) {{< br >}}{{< br >}} \- \[From von Fintel and Heim\] Exercise 1.2 (p. 10). Do not do 1.1 as was previously assigned. {{< br >}}{{< br >}} \- \[From von Fintel and Heim\] Exercise 1.3 (p. 11) {{< br >}}{{< br >}} \- \[From von Fintel and Heim\] Exercise 2.1 (p. 19) {{< br >}}{{< br >}}  | ([PDF]({{< baseurl >}}/sections/assignments/mit24_910s09_sol_assn02)) |
+| 3 | ([PDF]({{< baseurl >}}/sections/assignments/mit24_910s09_assn03)) | ([PDF]({{< baseurl >}}/sections/assignments/mit24_910s09_sol_assn03)) |
+| 4 | {{< h 3 >}}Reading{{< /h >}} {{< br >}}{{< br >}} Henry, Alison. "Introduction," and "For To Infinitives." Chapters 1 and 4 in _Belfast English and Standard English: Dialect Variation and Parameter Setting_. New York, NY: Oxford University Press, 1995, pp. 3-15 and 81-104. ISBN: 9780195082920. {{< br >}}{{< br >}} {{< h 3 >}}Assignment{{< /h >}} {{< br >}}{{< br >}} Prepare a list of at least 10 issues, questions, etc., related to the reading that you find interesting, confusing, surprising, etc., and which you would like to discuss with the class. Be prepared to explain the issues and questions briefly to the class. {{< br >}}{{< br >}}  | &nbsp; |
+| 5 | {{< h 3 >}}Reading{{< /h >}} {{< br >}}{{< br >}} Karttunen, Lauri. "Presuppositions of Compound Sentences." _Linguistic Inquiry_ 4, no. 2 (1973): 169-193. {{< br >}}{{< br >}} Stalnaker, Robert. "Pragmatic Presuppositions." In _Semantics and Philosophy_. Edited by Milton Munitz and Peter Under. New York, NY: New York University Press, 1974. ISBN: 9780814753668. Reprinted in _Context and Content: Essays on Intentionality in Speech and Thought_. New York, NY: Oxford University Press, 1999, pp. 47-62. ISBN: 9780198237075. {{< br >}}{{< br >}} {{< h 3 >}}Assignment{{< /h >}} {{< br >}}{{< br >}} \- Extend the definition of common belief \[from (2) in the [lecture notes]({{< baseurl >}}/sections/lecture-notes) from Ses #9\] to any group of n individuals x1 … xn. {{< br >}}{{< br >}} \- Write a few sentences explaining what is meant by the 'projection problem.' {{< br >}}{{< br >}} \- Find at least one example of a naturally occurring conversational exchange that is in some way interesting in light of our discussion from last time. Be prepared to tell the class about your example(s). {{< br >}}{{< br >}}  | &nbsp; |
+| 6 | {{< h 3 >}}Reading{{< /h >}} {{< br >}}{{< br >}} Stalnaker, Robert. "Pragmatic Presuppositions." In _Semantics and Philosophy_. Edited by Milton Munitz and Peter Under. New York, NY: New York University Press, 1974. ISBN: 9780814753668. Reprinted in _Context and Content: Essays on Intentionality in Speech and Thought_. New York, NY: Oxford University Press, 1999, pp. 47-62. ISBN: 9780198237075. {{< br >}}{{< br >}} Simons, Mandy. "[Observations on Embedding Verbs, Evidentiality, and Presupposition](http://dx.doi.org/10.1016/j.lingua.2006.05.006)." _Lingua_ 117, no. 6 (June 2007): 1034-1056. {{< br >}}{{< br >}} {{< h 3 >}}Assignment{{< /h >}} {{< br >}}{{< br >}} Simons discusses examples of the type "x Vs that S," where x is a DP and V is an attitude predicate, and where the 'main point' of the utterance seems to be S rather than x's attitude towards S. Find at least ten naturally occurring examples of this kind from overheard speech, written sources, or the web. Include with your examples any notes about the context that make the interpretation clear. Try to get some variety! Be prepared to tell us about them in class. {{< br >}}{{< br >}}  |
